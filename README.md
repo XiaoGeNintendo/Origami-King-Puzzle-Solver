@@ -4,7 +4,14 @@ Paper Mario Origami King Battle Puzzle Solver For Myself
 # Purpose
 To solve the battle puzzles in Paper Mario: Origami King because the author is a dumba*s.
 
-# Introcuction
+It's for regular small-fry battles. It can solve a 4*12 puzzle and the search depth is 3 moves.
+
+# Building & Modification
+Really easy to build, just open your `g++` and compile it.
+
+You can modify the code to increase search depth. But the code doesn't really include many optimization so its performance is extremely poor.
+
+# Introduction
 I wrote it in <1h and it was poorly written.
 
 I wrote it in Competitve Programming style.
