@@ -14,7 +14,7 @@ You can modify the code to increase search depth. But the code doesn't really in
 # Introduction
 I wrote it in <1h and it was poorly written.
 
-I wrote it in Competitve Programming style.
+I wrote it in Competitive Programming style, plz don't blame me for coding style.
 
 # Usage
 
