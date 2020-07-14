@@ -1,4 +1,7 @@
 # Origami-King-Puzzle-Solver
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8579aa3f1e344438b5d704ddba5fdbdd)](https://app.codacy.com/manual/XiaoGeNintendo/Origami-King-Puzzle-Solver?utm_source=github.com&utm_medium=referral&utm_content=XiaoGeNintendo/Origami-King-Puzzle-Solver&utm_campaign=Badge_Grade_Dashboard)
+
 Paper Mario Origami King Battle Puzzle Solver For Myself
 
 # Purpose
